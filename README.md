@@ -5,7 +5,7 @@ These are my dotfiles for, Mac, this repository is intended to make it easy for 
 Since I own a M4 MacBook Pro, the default shell is [zsh](https://en.wikipedia.org/wiki/Z_shell), I think it is an excellent shell and I have not felt the need to get anything else. I use [OhMyZsh](https://ohmyz.sh/) but I would recommend using [Prezto](https://github.com/sorin-ionescu/prezto) if I had to make that decision again. In both OhMyZsh and Prezto, I use the [Pure](https://github.com/sindresorhus/pure) prompt theme.
 
 ## Nvim
-I am not a Vim purist, I make it look nice and I use plugins to recreate IDE features.
+I am not a Vim purist, I make it look nice and I use plugins to recreate IDE features. I use the same nvim config for Arch and Mac so, I have decided to store that config in another repository located [here](https://github.com/1nsomnes/nvim).
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/f818ce98-7254-4126-b3eb-622a07afeb4d" />
 
